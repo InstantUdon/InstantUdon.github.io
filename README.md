@@ -1,2 +1,2 @@
 # InstantUdon.github.io
-The website for practice.
+InstantUdon's website.
